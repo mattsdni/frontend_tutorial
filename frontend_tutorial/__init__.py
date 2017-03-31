@@ -21,4 +21,3 @@ toolbar = DebugToolbarExtension(app)
 
 import models
 import views
-import routes
